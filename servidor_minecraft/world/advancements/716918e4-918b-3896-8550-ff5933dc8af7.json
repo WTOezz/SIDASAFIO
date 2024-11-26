@@ -1,0 +1,118 @@
+{
+  "variantvanillablocks:recipes/decorations/barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "mg_secrets_of_mermaids:discover_the_mermaids": {
+    "criteria": {
+      "discover_the_mermaids": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "grim_and_bleak:grim_and_bleak": {
+    "criteria": {
+      "grim_and_bleak_0": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_spruce_planks": "2024-11-26 15:14:59 -0500",
+      "has_spruce_slab": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "sleepy_hollows:main/root": {
+    "criteria": {
+      "example_criterion": "2024-11-26 15:15:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_spruce_slab": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "squinkers:squinkers_success": {
+    "criteria": {
+      "squinkers_success": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-26 15:14:59 -0500"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2024-11-26 15:15:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-26 15:15:29 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
